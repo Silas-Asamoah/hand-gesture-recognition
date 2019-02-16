@@ -1,2 +1,2 @@
 # hand-gesture-recognition
-Building Hand Gesture Recognition using a Neural Network 
+Building a Hand Gesture Recognition using a Neural Network 
